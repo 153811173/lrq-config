@@ -1,3 +1,2 @@
-
-配置：
-  信息：“主分支，springcloud-config / config-dev.yml版本= 7 ” 
+  config:
+  info: "master branch,config-repo config-dev.yml version=1"
